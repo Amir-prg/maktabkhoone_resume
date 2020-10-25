@@ -39,7 +39,7 @@
                 "type":"card",
                 "content":{
 
-                    "image":"/img/css.png",
+                    "image":"img/css.png",
                     "title":"CSS"
                 }
             },
@@ -47,7 +47,7 @@
                 "type":"card",
                 "content":{
 
-                    "image":"/img/sass.png",
+                    "image":"img/sass.png",
                     "title":"Sass"
                 }
             },
@@ -55,7 +55,7 @@
                 "type":"card",
                 "content":{
 
-                    "image":"/img/JS.png",
+                    "image":"img/JS.png",
                     "title":"Javascript"
                 }
             },
@@ -63,7 +63,7 @@
                 "type":"card",
                 "content":{
 
-                    "image":"/img/jquery.png",
+                    "image":"img/jquery.png",
                     "title":"Jquery"
                 }
             },
@@ -71,7 +71,7 @@
                 "type":"card",
                 "content":{
 
-                    "image":"/img/php.png",
+                    "image":"img/php.png",
                     "title":"Php"
                 }
             },
@@ -79,7 +79,7 @@
                 "type":"card",
                 "content":{
 
-                    "image":"/img/git.png",
+                    "image":"img/git.png",
                     "title":"Git"
                 }
             },
@@ -87,7 +87,7 @@
                 "type":"card",
                 "content":{
 
-                    "image":"/img/c++.png",
+                    "image":"img/c++.png",
                     "title":"C++"
                 }
             }
@@ -98,9 +98,9 @@
         }
     ], 
     "icon" :{
-        "down":"/img/down.png",
-        "colorme":"/img/colorme.png",
-        "up" :"/img/up.png"
+        "down":"img/down.png",
+        "colorme":"img/colorme.png"
+       
     }
 
 }
