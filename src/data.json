@@ -1,0 +1,106 @@
+{
+    
+    "title":"Hello,I'm Amir",
+    "subtitle":"Full-stack Developer | web designer | programmer",
+    "links":{
+        "github":"https://github.com/Amir-prg",
+        "linkedin":"https://www.linkedin.com/in/amir-heshmati-bb97021b3/",
+        "stackoverflow":"https://stackoverflow.com/story/amir_heshmati",
+        "instagram":"https://www.instagram.com/amir_heshmati79/"
+    },
+    "sections":[
+        {
+            "title":"About",
+            "items":{
+                "type":"p"
+            }
+        },
+        {
+            "title":"Skills",
+            "items":[
+                
+                {
+                "type":"card",
+                "content":{
+
+                    "image":"img/reactJS.png",
+                    "title":"ReactJs"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+
+                    "image":"img/html.png",
+                    "title":"Html"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+
+                    "image":"/img/css.png",
+                    "title":"CSS"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+
+                    "image":"/img/sass.png",
+                    "title":"Sass"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+
+                    "image":"/img/JS.png",
+                    "title":"Javascript"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+
+                    "image":"/img/jquery.png",
+                    "title":"Jquery"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+
+                    "image":"/img/php.png",
+                    "title":"Php"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+
+                    "image":"/img/git.png",
+                    "title":"Git"
+                }
+            },
+            {
+                "type":"card",
+                "content":{
+
+                    "image":"/img/c++.png",
+                    "title":"C++"
+                }
+            }
+
+            
+            
+        ]
+        }
+    ], 
+    "icon" :{
+        "down":"/img/down.png",
+        "colorme":"/img/colorme.png",
+        "up" :"/img/up.png"
+    }
+
+}
